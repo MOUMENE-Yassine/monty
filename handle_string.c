@@ -70,7 +70,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 		return (NULL);
 	for (i = 0; i < size * nmemb; i++)
 		ptr[i] = 0;
-	return (prt);
+	return (ptr);
 }
 /**
  * handle_within - function that check the within.
