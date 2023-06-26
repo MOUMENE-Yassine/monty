@@ -1,4 +1,4 @@
-i#include "monty.h"
+#include "monty.h"
 /**
  * _atoi - atoi function.
  * @str: string
