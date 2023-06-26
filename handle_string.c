@@ -1,4 +1,4 @@
-#include "monty.h"
+i#include "monty.h"
 /**
  * _atoi - atoi function.
  * @str: string
@@ -18,7 +18,7 @@ int _atoi(char *str)
 	return (1);
 }
 /**
- * readLine - function that read a file linea.
+ * readLine - function that read a file line.
  * @file: input stream
  * @l: string line to read
  * Return: string length
